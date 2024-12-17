@@ -1,8 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Veliz Arce Leonardo Carlos 👋</h1>
+</div> 
+
+<div>
+  <img src="./star.gif"/>
+  About me
 </div>
-
-
 
 
 <!--
