@@ -1,4 +1,6 @@
-# Hi, I'm Veliz Arce Leonardo Carlos 👋
+<div align="center">
+  # Hi, I'm Veliz Arce Leonardo Carlos 👋
+</div>
 
 
 
