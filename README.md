@@ -3,7 +3,7 @@
 </div> 
 
 <div>
-  <img src="./star.gif"/>
+  <img src="./star.gif" style="width:20px; height:20px; object-fit:cover" />
   About me
 </div>
 
