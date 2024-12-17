@@ -7,6 +7,11 @@
   About me
 </div>
 
+<p>
+Passionate about software development and technology, I enjoy teamwork and helping others overcome challenges. Interested in art and swimming, I learn quickly and communicate effectively, always looking for opportunities to collaborate and grow with others.
+</p>
+
+
 
 <!--
 **SirBolita/SirBolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
