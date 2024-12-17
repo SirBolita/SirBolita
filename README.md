@@ -8,6 +8,7 @@
 </div>
 
 <p>
+  <img src="coding-typing.gif" align="right" style="object-fit:cover; width:200px; height:200px "/>
 Passionate about software development and technology, I enjoy teamwork and helping others overcome challenges. Interested in art and swimming, I learn quickly and communicate effectively, always looking for opportunities to collaborate and grow with others.
 </p>
 
