@@ -1,4 +1,4 @@
-# Hi I'm Veliz Arce Leonardo Carlos 👋
+# Hi, I'm Veliz Arce Leonardo Carlos 👋
 
 
 
