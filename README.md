@@ -2,7 +2,7 @@
   <h1>Hi, I'm Veliz Arce Leonardo Carlos 👋</h1>
 </div> 
 
-<div>
+<div style="margin-bottom:10px">
   <img src="./star.gif" style="width:20px; height:20px; object-fit:cover" />
   About me
 </div>
