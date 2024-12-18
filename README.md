@@ -18,4 +18,4 @@ Passionate about software development and technology, I enjoy teamwork and helpi
   
 </ul>
 
-[![Anurag's GitHub stats](https://project-fitness-git-master-sirbolitas-projects.vercel.app/api?username=SirBolita)](https://github.com/SirBolita/Project_Fitness)
+[![Anurag's GitHub stats](https://project-fitness-eight.vercel.app/api?username=SirBolita)](https://github.com/SirBolita/Project_Fitness)
