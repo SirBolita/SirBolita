@@ -18,4 +18,4 @@ Passionate about software development and technology, I enjoy teamwork and helpi
   
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSirBolita=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://project-fitness-git-master-sirbolitas-projects.vercel.app//apiSirBolita=anuraghazra&show_icons=true&theme=radical)
