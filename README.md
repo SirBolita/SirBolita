@@ -18,4 +18,4 @@ Passionate about software development and technology, I enjoy teamwork and helpi
   
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirBolita&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirBolita)](https://github.com/anuraghazra/github-readme-stats)
