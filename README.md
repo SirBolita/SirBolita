@@ -14,7 +14,7 @@
 ---
 
 ### 🎓 Education
-- 🎓 **Bachelor's Degree** in **Systems Engineering and Computer Science**  
+- 🎓 **Bachiller en ingenieria de sistemas e informatica**  
    📍 Universidad Continental - Perú  
 
 ---
